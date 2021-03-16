@@ -1,0 +1,47 @@
+header img {
+    width: 100px;
+}
+.logo {
+    float: left;
+}
+ul li {
+    float: left;
+}
+header nav {
+    float: right;
+    overflow: hidden;
+}
+.clearfix {
+    clear: both;
+}
+header {
+    overflow: hidden;
+}
+section {
+    overflow: hidden
+}
+section img {
+    width: 33%;
+}
+.bogdan {
+    float: right;
+    width: calc(33% - 40px);
+    margin: 20px;
+    border: solid 1px black;
+}
+.bogdan-p {
+    background: lightgreen;
+    margin-bottom: 250px;
+    border: solid 1px black;
+    margin-right: 470px;
+    margin-top: 150px;
+}
+.eva {
+    float: left;
+    border: solid 1px black;
+    width: calc(33% - 40px);
+    margin: 20px;
+}
+.eva-p {
+    background: aqua;
+}
